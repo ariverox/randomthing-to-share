@@ -11,7 +11,6 @@ var routes = require('./routes/index');
 var wikiRouter = require('./routes/wiki');
 var users = require('./routes/users');
 
-console.log( wikiRouter.toString())
 
 
 var app = express();
